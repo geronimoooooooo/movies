@@ -1,3 +1,4 @@
 # movies
 Movies project for Udacity.
-You can click on any poster of a movie and a youtube trailer will be played. Have fun!
+This page displays some of interesting movies. You are free to click one of the posters to see a trailer/video on youtube.
+Have fun!
