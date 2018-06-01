@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+
 #create Movie object
 toy_story = media.Movie("Toy Story", "A story of a boy and his toys.",
             "https://vignette.wikia.nocookie.net/disney/images/8/80/Toy_Story_-_Poster.jpg",
