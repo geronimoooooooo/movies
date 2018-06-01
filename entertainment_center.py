@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-
+#create Movie object
 toy_story = media.Movie("Toy Story", "A story of a boy and his toys.",
             "https://vignette.wikia.nocookie.net/disney/images/8/80/Toy_Story_-_Poster.jpg",
             "https://www.youtube.com/watch?v=rNk1Wi8SvNc")
@@ -17,4 +17,4 @@ californiaction = media.Movie("Californication", "An author living in california
 print ("entertainment started!")
 
 movies =[toy_story, shrek, californiaction]
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies) #invoke method open_movies_page() to display provided movies
