@@ -10,6 +10,7 @@ class Movie():
         poster_img (str): URL to the poster of the movie.
         trailer_youtube (str): URL to the trailer of the movie on youtube.
     """
+
     def __init__(self, movie_title, movie_storyline, poster_img, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
