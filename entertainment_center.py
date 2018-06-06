@@ -13,7 +13,7 @@ shrek = media.Movie("Shrek", "An ogre goes on an adventure",
 
 californiaction = media.Movie("Californication", "An author living in california",
 "https://images-na.ssl-images-amazon.com/images/I/81B9XVkMJ9L._SY445_.jpg",
-"https://www.youtube.com/watch?v=FjO_fVYne7Y")
+"https://www.youtube.com/watch?v=VfxF6UkoX-g")
 
 print ("entertainment started!")
 
